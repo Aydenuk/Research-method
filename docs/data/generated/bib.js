@@ -83,20 +83,21 @@
         "volume": "",
         "year": "2022"
     },
-    "Liu2023ChatGPTQA": {
-        "abstract": "This study examines ChatGPT’s potential as a knowledge-based QA system and discusses its limitations and strengths.",
-        "author": "Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, Diyi Yang",
-        "doi": "10.48550/arXiv.2302.06476",
-        "journal": "arXiv",
-        "keywords": "type:Article, Applications, ChatGPT, QA",
-        "number": "",
+    "Bailicai2024HealthcareRAG": {
+        "abstract": "This paper proposes 'Bailicai', a domain-optimized retrieval-augmented generation (RAG) framework designed for healthcare applications. By incorporating four specialized sub-modules, the framework enhances the performance of open-source large language models (LLMs) on medical tasks, reducing hallucinations and improving factual accuracy.",
+        "author": "Cui Long, Yongbin Liu, Chunping Ouyang, Ying Yu",
+        "doi": "10.48550/arXiv.2407.21055",
+        "journal": "arXiv preprint",
+        "keywords": "type:Preprint, Applications, Healthcare, RAG, Domain Optimization",
+        "number": "2407.21055",
         "publisher": "arXiv",
-        "series": "arXiv",
-        "title": "Is ChatGPT a general-purpose natural language processing task solver?",
-        "url": "https://arxiv.org/abs/2302.06476",
+        "series": "arXiv AI",
+        "title": "Bailicai: A Domain-Optimized RAG Framework for Healthcare",
+        "url": "https://doi.org/10.48550/arXiv.2407.21055",
         "volume": "",
-        "year": "2023"
+        "year": "2024"
     },
+
     "Yu2024RAGPlusPlus": {
         "abstract": "RAG++ enhances retrieval-augmented generation by incorporating a reranking module, improving retrieval quality and generation accuracy for knowledge-intensive NLP tasks.",
         "author": "Chengrui Wang, Qingqing Long, Meng Xiao, Xunxin Cai, Chengjun Wu, Zhen Meng, Xuezhi Wang, Yuanchun Zhou",
