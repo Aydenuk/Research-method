@@ -55,7 +55,7 @@
         "volume": "",
         "year": "2019"
     },
-    "Shi2022REPLUG": {
+    "Shi2023REPLUG": {
         "abstract": "REPLUG introduces a retrieval-augmented approach for black-box language models, enabling them to incorporate external knowledge via retrieval without retraining.",
         "author": "Weijia Shi, Xinyun Chen, Yizhong Wang, Yuxiang Wu, Kai-Wei Chang, Caiming Xiong",
         "doi": "10.48550/arXiv.2301.12652",
@@ -67,10 +67,10 @@
         "title": "REPLUG: Retrieval-Augmented Black-Box Language Models",
         "url": "https://arxiv.org/abs/2301.12652",
         "volume": "",
-        "year": "2022"
+        "year": "2023"
     },
     "Tianxiang2022REPLUG": {
-        "abstract": "REPLUG introduces a flexible retrieval-augmented framework that enhances black-box language models by integrating external retrieval modules without requiring model fine-tuning.",
+        "abstract": "Introduces a flexible retrieval-augmented framework that enhances black-box language models by integrating external retrieval modules without requiring model fine-tuning.",
         "author": "Tianxiang Sun, Yunfan Shao, Hong Qian, Xuanjing Huang, Xipeng Qiu",
         "doi": "10.48550/arXiv.2201.03514",
         "journal": "arXiv",
@@ -124,7 +124,7 @@
         "title": "Atlas: Few-shot Learning with Retrieval-Augmented Language Models",
         "url": "https://arxiv.org/abs/2208.03299",
         "volume": "",
-        "year": "2022"
+        "year": "2023"
     },
     "Tran2024HealthcareRAG": {
         "abstract": "This paper explores the application of retrieval-augmented generation (RAG) techniques in healthcare, focusing on improving medical question answering and decision support systems.",
