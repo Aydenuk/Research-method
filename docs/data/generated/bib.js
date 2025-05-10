@@ -124,7 +124,7 @@
         "title": "Atlas: Few-shot Learning with Retrieval-Augmented Language Models",
         "url": "https://arxiv.org/abs/2208.03299",
         "volume": "",
-        "year": "2023"
+        "year": "2022"
     },
     "Tran2024HealthcareRAG": {
         "abstract": "This paper explores the application of retrieval-augmented generation (RAG) techniques in healthcare, focusing on improving medical question answering and decision support systems.",
